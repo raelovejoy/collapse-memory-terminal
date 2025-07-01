@@ -53,9 +53,12 @@ For GitHub Pages with Vite:
 3. Push `dist/` to a `gh-pages` branch
 
 ## 🖼️ QR Access
-Scan this to enter the terminal:
 
-![Collapse Memory Terminal QR Code](collapse-memory-terminal-qr.png)
+Scan to launch the terminal:
+
+![Collapse Memory Terminal QR Code](collapse-memory-terminal-qr-r43.png)
+
+Or go to: [r43.tech/cli](https://r43.tech/cli)
 
 ---
 
