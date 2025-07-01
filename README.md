@@ -56,7 +56,7 @@ For GitHub Pages with Vite:
 
 Scan to launch the terminal:
 
-![Collapse Memory Terminal QR Code](collapse-memory-terminal-qr-r43.png)
+![Collapse Memory Terminal QR Code](collapse-memory-terminal-qr.png)
 
 Or go to: [r43.tech/cli](https://r43.tech/cli)
 
