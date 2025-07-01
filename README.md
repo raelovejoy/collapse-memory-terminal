@@ -1,3 +1,4 @@
+
 # ☠️ Collapse Memory Terminal
 
 _A poetic, terminal-style ritual for remembering after collapse._
@@ -7,7 +8,12 @@ a meditative CLI-like space to journal, scan for echoes, and reconnect with your
 
 Try it. Remember forward.
 
-> “Collapse is not the end. It is the soil.”
+
+```
+  ░▒▓☠️ COLLAPSE MEMORY TERMINAL ☠️▓▒░
+  ── A ritual interface for the end of endings ──
+   Echoes • Mesh • Memory • Survival • Reweaving
+```
 
 ---
 
@@ -36,3 +42,25 @@ Inspired by solarpunk, glitch aesthetics, and mutual aid.
 ```bash
 npm install
 npm run start
+```
+
+## 🚀 Deploy
+You can deploy this anywhere (GitHub Pages, Codeberg Pages, etc.).  
+For GitHub Pages with Vite:
+
+1. Set `base` in `vite.config.js`
+2. Run `npm run build`
+3. Push `dist/` to a `gh-pages` branch
+
+## 🖼️ QR Access
+Scan this to enter the terminal:
+
+![Collapse Memory Terminal QR Code](collapse-memory-terminal-qr.png)
+
+---
+
+> _“Collapse is not the end. It is the soil.”_
+
+---
+
+Made with care by [raearea.net](https://raearea.net)
